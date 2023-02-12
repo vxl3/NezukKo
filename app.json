@@ -1,14 +1,14 @@
 {
-    "name": "Telegram",
+    "name": "Nezuko Music Bot",
     "description": "You know what it does...",
-    "logo": "",
+    "logo": "https://telegra.ph//file/490b818b5b636fcc085b8.jpg",
     "keywords": [
         "Telethon",
         "telegram",
         "python"
     ],
-    "repository": "https://github.com/",
-    "success_url": "https://t.me/Telegram",
+    "repository": "https://github.com/vxl3/NezukKo",
+    "success_url": "https://t.me/N3ZU1",
     "stack": "container",
     "env": {
         "API_ID": {
